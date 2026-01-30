@@ -1,0 +1,261 @@
+committee;chamber;congress;year_start;year_end;full_name;first_name;last_name;party;state;role
+Agricultura;House;119;2025;2026;Glenn Thompson;Glenn;Thompson;Republican;Pensilvania;Chair
+Agricultura;House;119;2025;2026;Angie Craig;Angie;Craig;Democrat;Minnesota;Ranking Member
+Agricultura;House;119;2025;2026;Dusty Johnson;Dusty;Johnson;Republican;Dakota del Sur;Subcommittee Chair
+Agricultura;House;119;2025;2026;Don Davis;Don;Davis;Democrat;;Subcommittee Ranking
+Agricultura;House;119;2025;2026;Frank Lucas;Frank;Lucas;Republican;Oklahoma;Subcommittee Chair
+Agricultura;House;119;2025;2026;Jill Tokuda;Jill;Tokuda;Democrat;HI;Subcommittee Ranking
+Agricultura;House;119;2025;2026;Doug LaMalfa;Doug;LaMalfa;Republican;California;Subcommittee Chair
+Agricultura;House;119;2025;2026;Andrea Salinas;Andrea;Salinas;Democrat;OR;Subcommittee Ranking
+Agricultura;House;119;2025;2026;Austin Scott;Austin;Scott;Republican;Georgia;Subcommittee Chair
+Agricultura;House;119;2025;2026;Sharice Davids;Sharice;Davids;Democrat;KS;Subcommittee Ranking
+Agricultura;House;119;2025;2026;Tracey Mann;Tracey;Mann;Unknown;;Subcommittee Chair
+Agricultura;House;119;2025;2026;Jim Costa;Jim;Costa;Democrat;;Subcommittee Ranking
+Agricultura;House;119;2025;2026;Brad Finstad;Brad;Finstad;Republican;Minnesota;Subcommittee Chair
+Agricultura;House;119;2025;2026;Jahana Hayes;Jahana;Hayes;Democrat;Connecticut;Subcommittee Ranking
+Asignaciones;House;119;2025;2026;Tom Cole;Tom;Cole;Republican;Oklahoma;Chair
+Asignaciones;House;119;2025;2026;Rosa DeLauro;Rosa;DeLauro;Democrat;Connecticut;Ranking Member
+Asignaciones;House;119;2025;2026;Andy Harris;Andy;Harris;Republican;Maryland;Subcommittee Chair
+Asignaciones;House;119;2025;2026;Sanford Bishop;Sanford;Bishop;Democrat;;Subcommittee Ranking
+Asignaciones;House;119;2025;2026;Hal Rogers;Hal;Rogers;Republican;Kentucky;Subcommittee Chair
+Asignaciones;House;119;2025;2026;Grace Meng;Grace;Meng;Democrat;;Subcommittee Ranking
+Asignaciones;House;119;2025;2026;Ken Calvert;Ken;Calvert;Republican;;Subcommittee Chair
+Asignaciones;House;119;2025;2026;Betty McCollum;Betty;McCollum;Democrat;;Subcommittee Ranking
+Asignaciones;House;119;2025;2026;Chuck Fleischmann;Chuck;Fleischmann;Republican;Tennessee;Subcommittee Chair
+Asignaciones;House;119;2025;2026;Marcy Kaptur;Marcy;Kaptur;Democrat;Ohio;Subcommittee Ranking
+Asignaciones;House;119;2025;2026;Dave Joyce;Dave;Joyce;Republican;Ohio;Subcommittee Chair
+Asignaciones;House;119;2025;2026;Steny Hoyer;Steny;Hoyer;Democrat;Maryland;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;Mark Amodei;Mark;Amodei;Republican;Nevada;Chair
+Seguridad Nacional;House;119;2025;2026;Lauren Underwood;Lauren;Underwood;Democrat;IL;Ranking Member
+Seguridad Nacional;House;119;2025;2026;Mike Simpson;Mike;Simpson;Republican;Idaho;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;Chellie Pingree;Chellie;Pingree;Democrat;Maine;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;Robert Aderholt;Robert;Aderholt;Republican;Alabama;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;Rosa DeLauro;Rosa;DeLauro;Democrat;Connecticut;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;David Valadao;David;Valadao;Republican;;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;Adriano Espaillat;Adriano;Espaillat;Democrat;;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;John Carter;John;Carter;Republican;Texas;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;Debbie Wasserman Schultz;Debbie;Wasserman Schultz;Democrat;;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;Mario Díaz-Balart;Mario;Díaz-Balart;Republican;;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;Lois Frankel;Lois;Frankel;Democrat;;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;Steve Womack;Steve;Womack;Republican;Arkansas;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;Jim Clyburn;Jim;Clyburn;Democrat;;Subcommittee Ranking
+Servicios armados;House;119;2025;2026;Mike Rogers;Mike;Rogers;Republican;;Chair
+Servicios armados;House;119;2025;2026;Adam Smith;Adam;Smith;Democrat;;Ranking Member
+Servicios armados;House;119;2025;2026;Don Bacon;Don;Bacon;Republican;Nebraska;Subcommittee Chair
+Servicios armados;House;119;2025;2026;Ro Khanna;Ro;Khanna;Democrat;;Subcommittee Ranking
+Servicios armados;House;119;2025;2026;Ronny Jackson;Ronny;Jackson;Republican;;Subcommittee Chair
+Servicios armados;House;119;2025;2026;Jason Crow;Jason;Crow;Democrat;Colorado;Subcommittee Ranking
+Servicios armados;House;119;2025;2026;Pat Fallon;Pat;Fallon;Republican;;Subcommittee Chair
+Servicios armados;House;119;2025;2026;Chrissy Houlahan;Chrissy;Houlahan;Democrat;Pensilvania;Subcommittee Ranking
+Servicios armados;House;119;2025;2026;Jack Bergman;Jack;Bergman;Republican;Michigan;Subcommittee Chair
+Servicios armados;House;119;2025;2026;John Garamendi;John;Garamendi;Democrat;;Subcommittee Ranking
+Servicios armados;House;119;2025;2026;Trent Kelly;Trent;Kelly;Republican;Mississippi;Subcommittee Chair
+Servicios armados;House;119;2025;2026;Joe Courtney;Joe;Courtney;Democrat;;Subcommittee Ranking
+Servicios armados;House;119;2025;2026;Scott DesJarlais;Scott;DesJarlais;Republican;Tennessee;Subcommittee Chair
+Servicios armados;House;119;2025;2026;Seth Moulton;Seth;Moulton;Democrat;Massachusetts;Subcommittee Ranking
+Servicios armados;House;119;2025;2026;Rob Wittman;Rob;Wittman;Republican;;Subcommittee Chair
+Servicios armados;House;119;2025;2026;Donald Norcross;Donald;Norcross;Democrat;;Subcommittee Ranking
+Presupuesto;House;119;2025;2026;Jodey Arrington;Jodey;Arrington;Republican;;Chair
+Presupuesto;House;119;2025;2026;Brendan Boyle;Brendan;Boyle;Democrat;Pensilvania;Ranking Member
+Educación y fuerza laboral;House;119;2025;2026;Tim Walberg;Tim;Walberg;Republican;Michigan;Chair
+Educación y fuerza laboral;House;119;2025;2026;Bobby Scott;Bobby;Scott;Democrat;;Ranking Member
+Educación y fuerza laboral;House;119;2025;2026;Kevin Kiley;Kevin;Kiley;Republican;;Subcommittee Chair
+Educación y fuerza laboral;House;119;2025;2026;Suzanne Bonamici;Suzanne;Bonamici;Democrat;Oregon;Subcommittee Ranking
+Educación y fuerza laboral;House;119;2025;2026;Rick Allen;Rick;Allen;Democrat;;Subcommittee Chair
+Educación y fuerza laboral;House;119;2025;2026;Mark DeSaulnier;Mark;DeSaulnier;Democrat;;Subcommittee Ranking
+Educación y fuerza laboral;House;119;2025;2026;Burgess Owens;Burgess;Owens;Republican;Utah;Subcommittee Chair
+Educación y fuerza laboral;House;119;2025;2026;Alma Adams;Alma;Adams;Democrat;;Subcommittee Ranking
+Educación y fuerza laboral;House;119;2025;2026;Ryan Mackenzie;Ryan;Mackenzie;Republican;Pensilvania;Subcommittee Chair
+Educación y fuerza laboral;House;119;2025;2026;Ilhan Omar;Ilhan;Omar;Democrat;Minnesota;Subcommittee Ranking
+Energía y Comercio;House;119;2025;2026;Brett Guthrie;Brett;Guthrie;Republican;Kentucky;Chair
+Energía y Comercio;House;119;2025;2026;Frank Pallone;Frank;Pallone;Democrat;;Ranking Member
+Energía y Comercio;House;119;2025;2026;Gus Bilirakis;Gus;Bilirakis;Republican;;Subcommittee Chair
+Energía y Comercio;House;119;2025;2026;Jan Schakowsky;Jan;Schakowsky;Democrat;;Subcommittee Ranking
+Energía y Comercio;House;119;2025;2026;Rich Hudson;Rich;Hudson;Republican;Carolina del Norte;Subcommittee Chair
+Energía y Comercio;House;119;2025;2026;Doris Matsui;Doris;Matsui;Democrat;CA;Subcommittee Ranking
+Energía y Comercio;House;119;2025;2026;Bob Latta;Bob;Latta;Republican;Ohio;Subcommittee Chair
+Energía y Comercio;House;119;2025;2026;Kathy Castor;Kathy;Castor;Democrat;;Subcommittee Ranking
+Energía y Comercio;House;119;2025;2026;Gary Palmer;Gary;Palmer;Republican;;Subcommittee Chair
+Energía y Comercio;House;119;2025;2026;Paul Tonko;Paul;Tonko;Democrat;;Subcommittee Ranking
+Energía y Comercio;House;119;2025;2026;Morgan Griffith;Morgan;Griffith;Republican;;Subcommittee Chair
+Energía y Comercio;House;119;2025;2026;Diana DeGette;Diana;DeGette;Democrat;Colorado;Subcommittee Ranking
+Energía y Comercio;House;119;2025;2026;John Joyce;John;Joyce;Republican;;Subcommittee Chair
+Energía y Comercio;House;119;2025;2026;Yvette Clarke;Yvette;Clarke;Democrat;;Subcommittee Ranking
+Ética;House;119;2025;2026;Michael Guest;Michael;Guest;Republican;Mississippi;Chair
+Ética;House;119;2025;2026;Mark DeSaulnier;Mark;DeSaulnier;Democrat;;Ranking Member
+Ética;House;119;2025;2026;Nathaniel Moran;Nathaniel;Moran;Republican;;Subcommittee Chair
+Ética;House;119;2025;2026;Sylvia García;Sylvia;García;Democrat;TX;Subcommittee Ranking
+Ética;House;119;2025;2026;Andrew Garbarino;Andrew;Garbarino;Republican;Nueva York;Subcommittee Chair
+Ética;House;119;2025;2026;Chrissy Houlahan;Chrissy;Houlahan;Democrat;Pensilvania;Subcommittee Ranking
+Ética;House;119;2025;2026;Ben Cline;Ben;Cline;Republican;;Subcommittee Chair
+Ética;House;119;2025;2026;Glenn Ivey;Glenn;Ivey;Democrat;Maryland;Subcommittee Ranking
+Servicios financieros;House;119;2025;2026;French Hill;French;Hill;Republican;AR;Chair
+Servicios financieros;House;119;2025;2026;Maxine Waters;Maxine;Waters;Democrat;;Ranking Member
+Servicios financieros;House;119;2025;2026;Ann Wagner;Ann;Wagner;Unknown;;Subcommittee Chair
+Servicios financieros;House;119;2025;2026;Brad Sherman;Brad;Sherman;Democrat;;Subcommittee Ranking
+Servicios financieros;House;119;2025;2026;Bryan Steil;Bryan;Steil;Republican;Wisconsin;Subcommittee Chair
+Servicios financieros;House;119;2025;2026;Steve Lynch;Steve;Lynch;Democrat;;Subcommittee Ranking
+Servicios financieros;House;119;2025;2026;Andy Barr;Andy;Barr;Republican;Kentucky;Subcommittee Chair
+Servicios financieros;House;119;2025;2026;Bill Foster;Bill;Foster;Democrat;;Subcommittee Ranking
+Servicios financieros;House;119;2025;2026;Mike Flood;Mike;Flood;Republican;Nebraska;Subcommittee Chair
+Servicios financieros;House;119;2025;2026;Emanuel Cleaver;Emanuel;Cleaver;Democrat;Missouri;Subcommittee Ranking
+Servicios financieros;House;119;2025;2026;Frank Lucas;Frank;Lucas;Republican;Oklahoma;Subcommittee Chair
+Servicios financieros;House;119;2025;2026;Juan Vargas;Juan;Vargas;Democrat;;Subcommittee Ranking
+Servicios financieros;House;119;2025;2026;Warren Davidson;Warren;Davidson;Republican;;Subcommittee Chair
+Servicios financieros;House;119;2025;2026;Joyce Beatty;Joyce;Beatty;Democrat;Ohio;Subcommittee Ranking
+Servicios financieros;House;119;2025;2026;Dan Meuser;Dan;Meuser;Republican;;Subcommittee Chair
+Servicios financieros;House;119;2025;2026;Al Green;Al;Green;Democrat;;Subcommittee Ranking
+Asuntos exteriores;House;119;2025;2026;Brian Mast;Brian;Mast;Republican;Florida;Chair
+Asuntos exteriores;House;119;2025;2026;Gregory Meeks;Gregory;Meeks;Democrat;;Ranking Member
+Asuntos exteriores;House;119;2025;2026;Chris Smith;Chris;Smith;Republican;Nueva Jersey;Subcommittee Chair
+Asuntos exteriores;House;119;2025;2026;Sara Jacobs;Sara;Jacobs;Democrat;;Subcommittee Ranking
+Asuntos exteriores;House;119;2025;2026;Young Kim;Young;Kim;Republican;CA;Subcommittee Chair
+Asuntos exteriores;House;119;2025;2026;Ami Bera;Ami;Bera;Democrat;;Subcommittee Ranking
+Asuntos exteriores;House;119;2025;2026;Keith Self;Keith;Self;Republican;;Subcommittee Chair
+Asuntos exteriores;House;119;2025;2026;Bill Keating;Bill;Keating;Democrat;;Subcommittee Ranking
+Asuntos exteriores;House;119;2025;2026;Mike Lawler;Mike;Lawler;Republican;Nueva York;Subcommittee Chair
+Asuntos exteriores;House;119;2025;2026;Sheila Cherfilus-McCormick;Sheila;Cherfilus-McCormick;Democrat;FL;Subcommittee Ranking
+Asuntos exteriores;House;119;2025;2026;Cory Mills;Cory;Mills;Republican;;Subcommittee Chair
+Asuntos exteriores;House;119;2025;2026;Jared Moskowitz;Jared;Moskowitz;Democrat;;Subcommittee Ranking
+Asuntos exteriores;House;119;2025;2026;Bill Huizenga;Bill;Huizenga;Republican;Michigan;Subcommittee Chair
+Asuntos exteriores;House;119;2025;2026;Sydney Kamlager-Dove;Sydney;Kamlager-Dove;Democrat;;Subcommittee Ranking
+Asuntos exteriores;House;119;2025;2026;María Elvira Salazar;María;Elvira Salazar;Republican;FL;Subcommittee Chair
+Asuntos exteriores;House;119;2025;2026;Joaquín Castro;Joaquín;Castro;Democrat;TX;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;Andrew Garbarino;Andrew;Garbarino;Republican;Nueva York;Chair
+Seguridad Nacional;House;119;2025;2026;Bennie Thompson;Bennie;Thompson;Democrat;Mississippi;Ranking Member
+Seguridad Nacional;House;119;2025;2026;Michael Guest;Michael;Guest;Republican;Mississippi;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;Lou Correa;Lou;Correa;Democrat;;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;August Pfluger;August;Pfluger;Republican;Texas;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;Seth Magaziner;Seth;Magaziner;Democrat;Rhode Island;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;Eric Swalwell;Eric;Swalwell;Democrat;;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;Dale Strong;Dale;Strong;Republican;;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;Tim Kennedy;Tim;Kennedy;Democrat;;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;Mike McCaul;Mike;McCaul;Republican;;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;Nellie Pou;Nellie;Pou;Democrat;;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;Josh Brecheen;Josh;Brecheen;Republican;;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;Sr. Thanedar;Sr.;Thanedar;Democrat;Michigan;Subcommittee Ranking
+Seguridad Nacional;House;119;2025;2026;Carlos Giménez;Carlos;Giménez;Republican;FL;Subcommittee Chair
+Seguridad Nacional;House;119;2025;2026;LaMonica McIver;LaMonica;McIver;Democrat;;Subcommittee Ranking
+Administración de la Casa;House;119;2025;2026;Bryan Steil;Bryan;Steil;Republican;Wisconsin;Chair
+Administración de la Casa;House;119;2025;2026;Joe Morelle;Joe;Morelle;Democrat;;Ranking Member
+Administración de la Casa;House;119;2025;2026;Mike Carey;Mike;Carey;Republican;;Subcommittee Chair
+Administración de la Casa;House;119;2025;2026;Laurel Lee;Laurel;Lee;Unknown;;Subcommittee Chair
+Administración de la Casa;House;119;2025;2026;Terri Sewell;Terri;Sewell;Democrat;;Subcommittee Ranking
+Administración de la Casa;House;119;2025;2026;Stephanie Bice;Stephanie;Bice;Unknown;;Subcommittee Chair
+Administración de la Casa;House;119;2025;2026;Norma Torres;Norma;Torres;Democrat;;Subcommittee Ranking
+Judicial;House;119;2025;2026;Jim Jordan;Jim;Jordan;Republican;;Chair
+Judicial;House;119;2025;2026;Jamie Raskin;Jamie;Raskin;Democrat;Maryland;Ranking Member
+Judicial;House;119;2025;2026;Scott Fitzgerald;Scott;Fitzgerald;Republican;Wisconsin;Subcommittee Chair
+Judicial;House;119;2025;2026;Jerry Nadler;Jerry;Nadler;Democrat;;Subcommittee Ranking
+Judicial;House;119;2025;2026;Chip Roy;Chip;Roy;Republican;Texas;Subcommittee Chair
+Judicial;House;119;2025;2026;Mary Gay Scanlon;Mary;Gay Scanlon;Democrat;Pensilvania;Subcommittee Ranking
+Judicial;House;119;2025;2026;Darrell Issa;Darrell;Issa;Republican;;Subcommittee Chair
+Judicial;House;119;2025;2026;Hank Johnson;Hank;Johnson;Democrat;;Subcommittee Ranking
+Judicial;House;119;2025;2026;Andy Biggs;Andy;Biggs;Republican;Arizona;Subcommittee Chair
+Judicial;House;119;2025;2026;Lucy McBath;Lucy;McBath;Democrat;Georgia;Subcommittee Ranking
+Judicial;House;119;2025;2026;Tom McClintock;Tom;McClintock;Republican;California;Subcommittee Chair
+Judicial;House;119;2025;2026;Pramila Jayapal;Pramila;Jayapal;Democrat;;Subcommittee Ranking
+Judicial;House;119;2025;2026;Barry Loudermilk;Barry;Loudermilk;Republican;Georgia;Subcommittee Chair
+Judicial;House;119;2025;2026;Eric Swalwell;Eric;Swalwell;Democrat;;Subcommittee Ranking
+Judicial;House;119;2025;2026;Jeff Van Drew;Jeff;Van Drew;Republican;Nueva Jersey;Subcommittee Chair
+Judicial;House;119;2025;2026;Jasmine Crockett;Jasmine;Crockett;Democrat;;Subcommittee Ranking
+Recursos naturales;House;119;2025;2026;Bruce Westerman;Bruce;Westerman;Republican;Arkansas;Chair
+Recursos naturales;House;119;2025;2026;Jared Huffman;Jared;Huffman;Democrat;;Ranking Member
+Recursos naturales;House;119;2025;2026;Pete Stauber;Pete;Stauber;Republican;Minnesota;Subcommittee Chair
+Recursos naturales;House;119;2025;2026;Yassamin Ansari;Yassamin;Ansari;Democrat;;Subcommittee Ranking
+Recursos naturales;House;119;2025;2026;Tom Tiffany;Tom;Tiffany;Republican;Wisconsin;Subcommittee Chair
+Recursos naturales;House;119;2025;2026;Joe Neguse;Joe;Neguse;Democrat;CO;Subcommittee Ranking
+Recursos naturales;House;119;2025;2026;Jeff Hurd;Jeff;Hurd;Republican;Colorado;Subcommittee Chair
+Recursos naturales;House;119;2025;2026;Teresa Leger Fernández;Teresa;Leger Fernández;Democrat;NM;Subcommittee Ranking
+Recursos naturales;House;119;2025;2026;Paul Gosar;Paul;Gosar;Republican;Arizona;Subcommittee Chair
+Recursos naturales;House;119;2025;2026;Maxine Dexter;Maxine;Dexter;Democrat;Oregon;Subcommittee Ranking
+Recursos naturales;House;119;2025;2026;Harriet Hageman;Harriet;Hageman;Unknown;Wyoming;Subcommittee Chair
+Recursos naturales;House;119;2025;2026;Val Hoyle;Val;Hoyle;Democrat;Oregon;Subcommittee Ranking
+Supervisión y reforma gubernamental;House;119;2025;2026;James Comer;James;Comer;Republican;;Chair
+Supervisión y reforma gubernamental;House;119;2025;2026;Robert García;Robert;García;Democrat;;Ranking Member
+Supervisión y reforma gubernamental;House;119;2025;2026;Nancy Mace;Nancy;Mace;Unknown;;Subcommittee Chair
+Supervisión y reforma gubernamental;House;119;2025;2026;Shontel Brown;Shontel;Brown;Democrat;;Subcommittee Ranking
+Supervisión y reforma gubernamental;House;119;2025;2026;Anna Paulina Luna;Anna;Paulina Luna;Unknown;;Subcommittee Chair
+Supervisión y reforma gubernamental;House;119;2025;2026;Jasmine Crockett;Jasmine;Crockett;Democrat;;Subcommittee Ranking
+Supervisión y reforma gubernamental;House;119;2025;2026;Marjorie Taylor Greene;Marjorie;Taylor Greene;Unknown;Georgia;Subcommittee Chair
+Supervisión y reforma gubernamental;House;119;2025;2026;Melanie Stansbury;Melanie;Stansbury;Democrat;;Subcommittee Ranking
+Supervisión y reforma gubernamental;House;119;2025;2026;Eric Burlison;Eric;Burlison;Republican;Missouri;Subcommittee Chair
+Supervisión y reforma gubernamental;House;119;2025;2026;Maxwell Frost;Maxwell;Frost;Democrat;;Subcommittee Ranking
+Supervisión y reforma gubernamental;House;119;2025;2026;Clay Higgins;Clay;Higgins;Republican;;Subcommittee Chair
+Supervisión y reforma gubernamental;House;119;2025;2026;Summer Lee;Summer;Lee;Democrat;Pensilvania;Subcommittee Ranking
+Supervisión y reforma gubernamental;House;119;2025;2026;Pete Sessions;Pete;Sessions;Republican;Texas;Subcommittee Chair
+Supervisión y reforma gubernamental;House;119;2025;2026;Kweisi Mfume;Kweisi;Mfume;Democrat;Maryland;Subcommittee Ranking
+Supervisión y reforma gubernamental;House;119;2025;2026;Glenn Grothman;Glenn;Grothman;Republican;Wisconsin;Subcommittee Chair
+Supervisión y reforma gubernamental;House;119;2025;2026;Raja Krishnamoorthi;Raja;Krishnamoorthi;Democrat;Illinois;Subcommittee Ranking
+Supervisión y reforma gubernamental;House;119;2025;2026;William Timmons;William;Timmons;Republican;;Subcommittee Chair
+Supervisión y reforma gubernamental;House;119;2025;2026;Suhas Subramanyam;Suhas;Subramanyam;Democrat;Virginia;Subcommittee Ranking
+Normas;House;119;2025;2026;Virginia Foxx;Virginia;Foxx;Unknown;;Chair
+Normas;House;119;2025;2026;Jim McGovern;Jim;McGovern;Democrat;;Ranking Member
+Normas;House;119;2025;2026;Nick Langworthy;Nick;Langworthy;Republican;Nueva York;Subcommittee Chair
+Normas;House;119;2025;2026;Teresa Leger Fernández;Teresa;Leger Fernández;Democrat;NM;Subcommittee Ranking
+Normas;House;119;2025;2026;Michelle Fischbach;Michelle;Fischbach;Unknown;;Subcommittee Chair
+Normas;House;119;2025;2026;Mary Gay Scanlon;Mary;Gay Scanlon;Democrat;Pensilvania;Subcommittee Ranking
+Ciencia, espacio y tecnología;House;119;2025;2026;Brian Babin;Brian;Babin;Republican;;Chair
+Ciencia, espacio y tecnología;House;119;2025;2026;Zoe Lofgren;Zoe;Lofgren;Democrat;;Ranking Member
+Ciencia, espacio y tecnología;House;119;2025;2026;Randy Weber;Randy;Weber;Republican;;Subcommittee Chair
+Ciencia, espacio y tecnología;House;119;2025;2026;Deborah Ross;Deborah;Ross;Democrat;;Subcommittee Ranking
+Ciencia, espacio y tecnología;House;119;2025;2026;Scott Franklin;Scott;Franklin;Republican;;Subcommittee Chair
+Ciencia, espacio y tecnología;House;119;2025;2026;Gabe Amo;Gabe;Amo;Democrat;RI;Subcommittee Ranking
+Ciencia, espacio y tecnología;House;119;2025;2026;Rich McCormick;Rich;McCormick;Republican;Georgia;Subcommittee Chair
+Ciencia, espacio y tecnología;House;119;2025;2026;Emilia Sykes;Emilia;Sykes;Democrat;Ohio;Subcommittee Ranking
+Ciencia, espacio y tecnología;House;119;2025;2026;Jay Obernolte;Jay;Obernolte;Republican;California;Subcommittee Chair
+Ciencia, espacio y tecnología;House;119;2025;2026;Haley Stevens;Haley;Stevens;Democrat;Michigan;Subcommittee Ranking
+Ciencia, espacio y tecnología;House;119;2025;2026;Mike Haridopolos;Mike;Haridopolos;Republican;;Subcommittee Chair
+Ciencia, espacio y tecnología;House;119;2025;2026;Valerie Foushee;Valerie;Foushee;Democrat;;Subcommittee Ranking
+Pequeña empresa;House;119;2025;2026;Roger Williams;Roger;Williams;Republican;;Chair
+Pequeña empresa;House;119;2025;2026;Nydia Velázquez;Nydia;Velázquez;Democrat;;Ranking Member
+Pequeña empresa;House;119;2025;2026;Nick LaLota;Nick;LaLota;Republican;Nueva York;Subcommittee Chair
+Pequeña empresa;House;119;2025;2026;Gil Cisneros;Gil;Cisneros;Democrat;;Subcommittee Ranking
+Pequeña empresa;House;119;2025;2026;Beth Van Duyne;Beth;Van Duyne;Unknown;;Subcommittee Chair
+Pequeña empresa;House;119;2025;2026;LaMonica McIver;LaMonica;McIver;Democrat;;Subcommittee Ranking
+Pequeña empresa;House;119;2025;2026;Brian Jack;Brian;Jack;Republican;Georgia;Subcommittee Chair
+Pequeña empresa;House;119;2025;2026;Hillary Scholten;Hillary;Scholten;Democrat;Michigan;Subcommittee Ranking
+Pequeña empresa;House;119;2025;2026;Mark Alford;Mark;Alford;Republican;Missouri;Subcommittee Chair
+Pequeña empresa;House;119;2025;2026;Derek Tran;Derek;Tran;Democrat;;Subcommittee Ranking
+Pequeña empresa;House;119;2025;2026;Jake Ellzey;Jake;Ellzey;Republican;;Subcommittee Chair
+Pequeña empresa;House;119;2025;2026;Kelly Morrison;Kelly;Morrison;Democrat;Minnesota;Subcommittee Ranking
+Transporte e Infraestructura;House;119;2025;2026;Sam Graves;Sam;Graves;Republican;Missouri;Chair
+Transporte e Infraestructura;House;119;2025;2026;Rick Larsen;Rick;Larsen;Democrat;WA;Ranking Member
+Transporte e Infraestructura;House;119;2025;2026;Troy Nehls;Troy;Nehls;Republican;;Subcommittee Chair
+Transporte e Infraestructura;House;119;2025;2026;Steve Cohen;Steve;Cohen;Democrat;;Subcommittee Ranking
+Transporte e Infraestructura;House;119;2025;2026;Mike Ezell;Mike;Ezell;Republican;;Subcommittee Chair
+Transporte e Infraestructura;House;119;2025;2026;Salud Carbajal;Salud;Carbajal;Democrat;CA;Subcommittee Ranking
+Transporte e Infraestructura;House;119;2025;2026;Scott Perry;Scott;Perry;Republican;Pensilvania;Subcommittee Chair
+Transporte e Infraestructura;House;119;2025;2026;Greg Stanton;Greg;Stanton;Democrat;;Subcommittee Ranking
+Transporte e Infraestructura;House;119;2025;2026;David Rouzer;David;Rouzer;Republican;Carolina del Norte;Subcommittee Chair
+Transporte e Infraestructura;House;119;2025;2026;Eleanor Holmes Norton;Eleanor;Holmes Norton;Democrat;Washington D. C.;Subcommittee Ranking
+Transporte e Infraestructura;House;119;2025;2026;Daniel Webster;Daniel;Webster;Republican;;Subcommittee Chair
+Transporte e Infraestructura;House;119;2025;2026;Dina Titus;Dina;Titus;Democrat;Nevada;Subcommittee Ranking
+Transporte e Infraestructura;House;119;2025;2026;Mike Collins;Mike;Collins;Republican;Georgia;Subcommittee Chair
+Transporte e Infraestructura;House;119;2025;2026;Frederica Wilson;Frederica;Wilson;Democrat;;Subcommittee Ranking
+Asuntos de Veteranos;House;119;2025;2026;Mike Bost;Mike;Bost;Republican;;Chair
+Asuntos de Veteranos;House;119;2025;2026;Mark Takano;Mark;Takano;Democrat;;Ranking Member
+Asuntos de Veteranos;House;119;2025;2026;Morgan Luttrell;Morgan;Luttrell;Republican;Texas;Subcommittee Chair
+Asuntos de Veteranos;House;119;2025;2026;Morgan McGarvey;Morgan;McGarvey;Democrat;;Subcommittee Ranking
+Asuntos de Veteranos;House;119;2025;2026;Derrick Van Orden;Derrick;Van Orden;Republican;Wisconsin;Subcommittee Chair
+Asuntos de Veteranos;House;119;2025;2026;Chris Pappas;Chris;Pappas;Democrat;;Subcommittee Ranking
+Asuntos de Veteranos;House;119;2025;2026;Mariannette Miller-Meeks;Mariannette;Miller-Meeks;Unknown;;Subcommittee Chair
+Asuntos de Veteranos;House;119;2025;2026;Julia Brownley;Julia;Brownley;Democrat;;Subcommittee Ranking
+Asuntos de Veteranos;House;119;2025;2026;Jen Kiggans;Jen;Kiggans;Unknown;;Subcommittee Chair
+Asuntos de Veteranos;House;119;2025;2026;Delia Ramírez;Delia;Ramírez;Democrat;IL;Subcommittee Ranking
+Asuntos de Veteranos;House;119;2025;2026;Tom Barrett;Tom;Barrett;Republican;Michigan;Subcommittee Chair
+Asuntos de Veteranos;House;119;2025;2026;Nikki Budzinski;Nikki;Budzinski;Democrat;;Subcommittee Ranking
+Modos y medios;House;119;2025;2026;Jason Smith;Jason;Smith;Republican;Missouri;Chair
+Modos y medios;House;119;2025;2026;Richard Neal;Richard;Neal;Democrat;;Ranking Member
+Modos y medios;House;119;2025;2026;Vern Buchanan;Vern;Buchanan;Republican;;Subcommittee Chair
+Modos y medios;House;119;2025;2026;Lloyd Doggett;Lloyd;Doggett;Democrat;;Subcommittee Ranking
+Modos y medios;House;119;2025;2026;David Schweikert;David;Schweikert;Republican;Arizona;Subcommittee Chair
+Modos y medios;House;119;2025;2026;Terri Sewell;Terri;Sewell;Democrat;;Subcommittee Ranking
+Modos y medios;House;119;2025;2026;Ron Estes;Ron;Estes;Republican;;Subcommittee Chair
+Modos y medios;House;119;2025;2026;John Larson;John;Larson;Democrat;Connecticut;Subcommittee Ranking
+Modos y medios;House;119;2025;2026;Mike Kelly;Mike;Kelly;Republican;;Subcommittee Chair
+Modos y medios;House;119;2025;2026;Mike Thompson;Mike;Thompson;Democrat;;Subcommittee Ranking
+Modos y medios;House;119;2025;2026;Adrian Smith;Adrian;Smith;Republican;Nebraska;Subcommittee Chair
+Modos y medios;House;119;2025;2026;Linda Sánchez;Linda;Sánchez;Democrat;;Subcommittee Ranking
+Modos y medios;House;119;2025;2026;Darin LaHood;Darin;LaHood;Republican;Illinois;Subcommittee Chair
+Modos y medios;House;119;2025;2026;Danny Davis;Danny;Davis;Democrat;;Subcommittee Ranking
