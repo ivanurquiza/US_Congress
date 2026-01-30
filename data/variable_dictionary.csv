@@ -1,0 +1,35 @@
+variable,description,coverage_pct
+return_t,Daily return on trade date,0.0%
+abs_return_t,,0.0%
+return_overnight,,0.0%
+return_intraday,,0.0%
+momentum_5d,,0.0%
+momentum_20d,,0.0%
+momentum_60d,60-day momentum,0.0%
+momentum_252d,,0.0%
+realized_vol_30d,"Realized volatility (30d, annualized)",80.4%
+realized_vol_60d,,80.4%
+realized_vol_252d,,80.4%
+parkinson_vol_30d,,97.9%
+vol_of_vol_60d,,80.2%
+volume_t,,0.0%
+dollar_volume_t,,0.0%
+volume_ratio_30d,Volume / 30d average,0.0%
+abnormal_volume_30d,,0.0%
+amihud_illiq_20d,Amihud illiquidity measure,80.2%
+roll_spread_30d,,80.4%
+hl_spread_20d,,80.5%
+zero_volume_days_30d,,97.9%
+beta_252d,CAPM beta (252d),80.2%
+r2_market_252d,,80.1%
+market_cap,Market cap (millions USD),77.4%
+price,,78.9%
+book_value,,77.3%
+price_to_book,,77.3%
+ev_to_ebitda,,69.0%
+car_raw_30d,Market-adjusted CAR (30d),80.0%
+car_raw_60d,,79.8%
+car_raw_90d,,79.6%
+car_capm_30d,,79.7%
+car_capm_60d,,79.5%
+car_capm_90d,,79.3%
